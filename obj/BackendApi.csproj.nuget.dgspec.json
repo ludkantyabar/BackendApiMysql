@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Github\\JavaScript\\semana9\\backend_mysql\\BackendApiMysql\\BackendApi.csproj": {}
+    "D:\\Github\\JAVASCRIPT\\semana9\\BACKEND_MYSQL\\BackendApiMysql\\BackendApi.csproj": {}
   },
   "projects": {
-    "D:\\Github\\JavaScript\\semana9\\backend_mysql\\BackendApiMysql\\BackendApi.csproj": {
+    "D:\\Github\\JAVASCRIPT\\semana9\\BACKEND_MYSQL\\BackendApiMysql\\BackendApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github\\JavaScript\\semana9\\backend_mysql\\BackendApiMysql\\BackendApi.csproj",
+        "projectUniqueName": "D:\\Github\\JAVASCRIPT\\semana9\\BACKEND_MYSQL\\BackendApiMysql\\BackendApi.csproj",
         "projectName": "BackendApi",
-        "projectPath": "D:\\Github\\JavaScript\\semana9\\backend_mysql\\BackendApiMysql\\BackendApi.csproj",
+        "projectPath": "D:\\Github\\JAVASCRIPT\\semana9\\BACKEND_MYSQL\\BackendApiMysql\\BackendApi.csproj",
         "packagesPath": "C:\\Users\\Luffy\\.nuget\\packages\\",
-        "outputPath": "D:\\Github\\JavaScript\\semana9\\backend_mysql\\BackendApiMysql\\obj\\",
+        "outputPath": "D:\\Github\\JAVASCRIPT\\semana9\\BACKEND_MYSQL\\BackendApiMysql\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Luffy\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V7jOGFj5Wa4=",
+  "dgSpecHash": "l5PLu+i4SfE=",
   "success": true,
-  "projectFilePath": "D:\\Github\\JavaScript\\semana9\\backend_mysql\\BackendApiMysql\\BackendApi.csproj",
+  "projectFilePath": "D:\\Github\\JAVASCRIPT\\semana9\\BACKEND_MYSQL\\BackendApiMysql\\BackendApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Luffy\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Luffy\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.5\\microsoft.aspnetcore.openapi.8.0.5.nupkg.sha512",
