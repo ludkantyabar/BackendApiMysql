@@ -2606,11 +2606,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Github\\JavaScript\\semana9\\backend_mysql\\BackendApiMysql\\BackendApi.csproj",
+      "projectUniqueName": "D:\\proyectos_git\\JAVA_SCRIPT\\crud_mysql\\BackendApiMysql\\BackendApi.csproj",
       "projectName": "BackendApi",
-      "projectPath": "D:\\Github\\JavaScript\\semana9\\backend_mysql\\BackendApiMysql\\BackendApi.csproj",
+      "projectPath": "D:\\proyectos_git\\JAVA_SCRIPT\\crud_mysql\\BackendApiMysql\\BackendApi.csproj",
       "packagesPath": "C:\\Users\\Luffy\\.nuget\\packages\\",
-      "outputPath": "D:\\Github\\JavaScript\\semana9\\backend_mysql\\BackendApiMysql\\obj\\",
+      "outputPath": "D:\\proyectos_git\\JAVA_SCRIPT\\crud_mysql\\BackendApiMysql\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Luffy\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2621,6 +2621,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
